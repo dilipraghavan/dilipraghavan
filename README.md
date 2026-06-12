@@ -24,8 +24,8 @@ Custom WooCommerce product type with duration-based access control, conditional 
 ### [Gutenberg Block Suite](https://github.com/dilipraghavan/wp-gutenberg-block-suite)
 Custom block plugin demonstrating dynamic blocks, block.json registration, and editor/frontend separation.
 
-### [Mailchimp API Integration](https://github.com/dilipraghavan/mailchimp-api-plugin)
-Lightweight WordPress plugin integrating with the Mailchimp API — subscriber management, list syncing, and webhook handling.
+### [Multisite Central Account Sync](https://github.com/dilipraghavan/multisite-account-sync)
+WordPress Multisite plugin synchronising user accounts, roles, and capabilities across all network subsites from a central admin panel. Custom database tables, audit logging, and network-wide admin interface.
 
 ---
 
