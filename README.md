@@ -43,4 +43,4 @@ WordPress Multisite plugin synchronising user accounts, roles, and capabilities 
 
 Open to senior contract and remote roles with WordPress-specialist agencies and product teams.
 
-📧 Reach me via [LinkedIn](https://www.linkedin.com/in/dilip-raghavan-3069b066/)
+📧 Reach me via [LinkedIn](https://www.linkedin.com/in/dilip-raghavan/)
